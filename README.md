@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgina Velasco Ramírez</h1>
+
 - 🔭 I’m interested **in frontend development**
 
 - 🌱 I’m currently learning **User Experience (UX) design**
